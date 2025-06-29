@@ -16,9 +16,6 @@ This is a hobby project I'm developing for fun and to learn.<br>
 ---
 <br>
 
-<div align="center">
-    <a href="https://discord.gg/YU2yjP5jvS"><img src="https://discord.com/api/guilds/1351277918726262954/widget.png?style=banner2"></img></a>
-</div>
 
 ---
 <br>
